@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "ToolsArena – Free Online Tools & Guides",
+    "description": "120+ free browser-based tools and 170+ detailed guides. Image editing, PDF operations, text utilities, calculators, developer tools & comprehensive how-to guides.",
+    "tags": ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+    "icon": "⚡",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
+    "liveUrl": "#",
+    "isLive": true
+  },
+  {
+    "id": 2,
+    "title": "CRM Pro – React Dashboard",
+    "description": "Modern React-based CRM dashboard with pipeline visualization, KPI cards, and interactive charts.",
+    "tags": ["React", "Vite", "Recharts", "Zustand"],
+    "icon": "📊",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop",
+    "liveUrl": "#",
+    "isLive": true
+  },
+  {
+    "id": 3,
+    "title": "HireDeskPro – Free Resume Builder",
+    "description": "Professional resume builder with premium templates, ATS scanner, and one-click PDF export.",
+    "tags": ["React", "TypeScript", "Vite", "Tailwind CSS"],
+    "icon": "📄",
+    "image": "https://images.unsplash.com/photo-1516321165247-4aa89a48be28?q=80&w=1200&auto=format&fit=crop",
+    "liveUrl": "#",
+    "isLive": true
+  },
+  {
+    "id": 4,
+    "title": "PageGenie – AI Landing Page Generator",
+    "description": "AI-generated landing pages with live preview, dark mode, branding tools, and export-ready code.",
+    "tags": ["Next.js", "Cloudflare", "TypeScript"],
+    "icon": "✨",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1200&auto=format&fit=crop",
+    "liveUrl": "#",
+    "isLive": true
+  },
+  {
+    "id": 5,
+    "title": "JoinChatRoom – Real-Time Chat App",
+    "description": "Real-time messaging app with authentication, online presence, and responsive UI.",
+    "tags": ["Next.js", "Firebase", "Tailwind CSS"],
+    "icon": "📱",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1200&auto=format&fit=crop",
+    "liveUrl": "#",
+    "isLive": true
+  },
+  {
+    "id": 6,
+    "title": "Nexus Admin – Multi-Page Dashboard",
+    "description": "Complete admin dashboard with analytics, charts, calendar, kanban, and role management.",
+    "tags": ["Alpine.js", "Chart.js", "Tailwind CSS"],
+    "icon": "💻",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1200&auto=format&fit=crop",
+    "liveUrl": "#",
+    "isLive": true
+  },
+  {
+    "id": 7,
+    "title": "FitTrack – Fitness Tracking App",
+    "description": "Track workouts, calories, and fitness goals with charts and progress analytics.",
+    "tags": ["React", "Node.js", "MongoDB"],
+    "icon": "🏋️",
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=1200&auto=format&fit=crop",
+    "liveUrl": "#",
+    "isLive": true
+  },
+  {
+    "id": 8,
+    "title": "FoodieHub – Restaurant Ordering Platform",
+    "description": "Food ordering platform with restaurant listings, cart, checkout, and order tracking.",
+    "tags": ["Next.js", "Stripe", "Firebase"],
+    "icon": "🍔",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1200&auto=format&fit=crop",
+    "liveUrl": "#",
+    "isLive": true
+  },
+  {
+    "id": 9,
+    "title": "TaskFlow – Productivity Management Tool",
+    "description": "Kanban-style productivity app with drag-and-drop boards and team collaboration.",
+    "tags": ["React", "Firebase", "Dnd Kit"],
+    "icon": "✅",
+    "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?q=80&w=1200&auto=format&fit=crop",
+    "liveUrl": "#",
+    "isLive": true
+  },
+  {
+    "id": 10,
+    "title": "EduVerse – Online Learning Platform",
+    "description": "E-learning platform with courses, quizzes, certificates, and student dashboards.",
+    "tags": ["Next.js", "Prisma", "PostgreSQL"],
+    "icon": "🎓",
+    "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=1200&auto=format&fit=crop",
+    "liveUrl": "#",
+    "isLive": true
+  }
+]
